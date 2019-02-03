@@ -6,6 +6,7 @@ Extract Verilog/Quartus-MIF ROM from Midi files
 The script needs Python3 *mido* and *getopt* packages.
 
 This script have been used on this project: https://github.com/abbati-simone/Yoshis-Nightmare-Altera
+
 and this one: https://github.com/abbati-simone/Midi-Altera
 
 [**run_conversion.sh**](https://github.com/abbati-simone/Midi-to-ROM/blob/master/src/run_conversion.sh) is a shell script with many examples for included midi files.
